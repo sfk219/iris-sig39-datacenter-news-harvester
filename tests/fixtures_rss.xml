@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>DEMO DataCenter-Insider fixture (synthetic)</title><link>https://www.datacenter-insider.de/</link><description>Synthetic evaluation records; not real news</description>
+<item><guid>demo-1</guid><title>Neues Rechenzentrum in Berlin angekündigt</title><link>https://www.datacenter-insider.de/demo-berlin-a1/</link><description>Colocation-Anlage in Berlin erhält neue Kapazität.</description><pubDate>Mon, 26 Oct 2026 09:00:00 +0100</pubDate></item>
+<item><guid>demo-2</guid><title>Flüssigkühlung in Wien getestet</title><link>https://www.datacenter-insider.de/demo-wien-a2/</link><description>Neue Kühlung für Rechenzentren in Wien.</description><pubDate>Tue, 27 Oct 2026 10:00:00 +0100</pubDate></item>
+<item><guid>demo-3</guid><title>Energieeffizienzgesetz: Anforderungen für Rechenzentren in Deutschland</title><link>https://www.datacenter-insider.de/demo-enefg-a3/</link><description>EnEfG und PUE im Fokus.</description><pubDate>Tue, 27 Oct 2026 10:00:00 +0100</pubDate></item>
+<item><guid>demo-4</guid><title>Rechenzentren in Berlin und in Wien</title><link>https://www.datacenter-insider.de/demo-multiple-a4/</link><description>Neue Investitionen in Berlin sowie in Wien.</description></item>
+<item><guid>demo-5</guid><title>Neues Computer-Mausmodell in Deutschland</title><link>https://www.datacenter-insider.de/demo-mouse-a5/</link></item>
+<item><guid>demo-1</guid><title>Neues Rechenzentrum in Berlin angekündigt</title><link>https://www.datacenter-insider.de/demo-berlin-a1/?utm_source=test</link></item>
+<item><title>Ungültige URL Rechenzentrum in Berlin</title><link>not-a-url</link></item>
+</channel></rss>
